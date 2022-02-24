@@ -1,0 +1,74 @@
+*{
+    font-family: 'Rubik', sans-serif;
+    color: #3f3f3f;
+    margin: 50px;
+}
+
+.title{
+    font-size: 53px;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration-line: overline;
+    text-decoration-color: #fb4275;
+}
+
+.bestdigital{
+    background-color: #fff7f9;
+
+    width: 50%;
+    height: 50%;
+}
+
+.check{
+    display: flex;
+}
+
+.business{
+    color: #fb4275;
+}
+
+.checktxt{
+    display: flex;
+}
+
+.gray{
+    color: #999;
+}
+
+p{
+    font-size: 16px;
+}
+
+button{
+    background-color: #fb4275;
+}
+
+.tabCat{
+    display: flex;
+}
+
+.inf{
+    display: flex;
+}
+
+.part3{
+    display: flex;
+}
+
+.saisie{
+    display: flex;
+}
+
+button{
+    border-width: 0px;
+    color: white;
+    padding: 10px;
+}
+
+.copyright{
+    text-align: center;
+}
